@@ -1,0 +1,36 @@
+# Thuật ngữ cho trang cuối PDF (pdf-export). Mỗi dòng: English | IPA | Tiếng Việt | 中文 | pinyin | Diễn nghĩa
+Aftershock | ˈæftərʃɑːk | Dư chấn | 余震 | yúzhèn | Các trận động đất nhỏ hơn xảy ra sau trận chính, có thể kéo dài nhiều ngày; cần lặp lại “nằm xuống, che đầu, bám chặt”.
+BE-FAST | ˌbiː ˈiː fæst | Dấu hiệu BE-FAST | 脑卒中识别口诀 | nǎocùzhōng shíbié kǒujué | Cách nhớ dấu hiệu đột quỵ: mất thăng bằng, mờ mắt, méo miệng, yếu tay chân, nói khó, và gọi cấp cứu ngay.
+Boiling | ˈbɔɪlɪŋ | Đun sôi khử trùng | 煮沸消毒 | zhǔfèi xiāodú | Đun nước sôi bùng ít nhất 1 phút để diệt phần lớn vi khuẩn, virus và ký sinh trùng.
+Botulism | ˈbɑːtʃəlɪzəm | Ngộ độc botulinum | 肉毒杆菌中毒 | ròudú gǎnjūn zhòngdú | Ngộ độc do độc tố vi khuẩn trong đồ hộp, đồ ủ kín hỏng; gây nhìn đôi, khó nuốt, yếu cơ; luôn là cấp cứu.
+Carbon monoxide poisoning | ˌkɑːrbən məˈnɑːksaɪd ˈpɔɪzənɪŋ | Ngộ độc khí CO | 一氧化碳中毒 | yīyǎnghuàtàn zhòngdú | Ngộ độc do khí không màu, không mùi từ than, củi, máy phát điện đốt trong phòng kín; chiếm chỗ oxy trong máu.
+Dehydration | ˌdiːhaɪˈdreɪʃən | Mất nước | 脱水 | tuōshuǐ | Cơ thể thiếu nước và muối; dấu hiệu là tiểu ít, khô miệng, chóng mặt khi đứng dậy.
+Dengue fever | ˈdɛŋɡeɪ ˈfiːvər | Sốt xuất huyết | 登革热 | dēnggérè | Bệnh do virus lây qua muỗi vằn; giai đoạn nguy hiểm thường là khi vừa hết sốt (ngày 3–7). Không dùng aspirin, ibuprofen.
+Drop, Cover, Hold On | drɑːp ˈkʌvər hoʊld ɑːn | Nằm xuống, che đầu, bám chặt | 趴下、掩护、抓牢 | pāxià, yǎnhù, zhuāláo | Cách phản ứng khuyến cáo khi đang có động đất: quỳ xuống, chui dưới bàn chắc, che đầu cổ, bám chặt.
+Emergency kit | ɪˈmɝːdʒənsi kɪt | Túi đồ khẩn cấp | 应急包 | yìngjíbāo | Túi chuẩn bị sẵn nước, đồ ăn khô, thuốc, đèn, giấy tờ để mang theo ngay khi phải sơ tán.
+Emergency number | ɪˈmɝːdʒənsi ˈnʌmbər | Số điện thoại khẩn cấp | 紧急电话 | jǐnjí diànhuà | Ở Việt Nam: 115 cấp cứu y tế, 114 cứu hỏa và cứu nạn, 113 công an, 112 tìm kiếm cứu nạn.
+Evacuation | ɪˌvækjuˈeɪʃən | Sơ tán | 疏散 | shūsàn | Rời khỏi vùng nguy hiểm theo hướng dẫn của chính quyền; nên đi sớm, trước khi đường bị ngập hay bị cắt.
+Fever | ˈfiːvər | Sốt | 发烧 | fāshāo | Thân nhiệt tăng cao hơn bình thường, thường do nhiễm trùng; cần cấp cứu khi kèm cứng cổ, lú lẫn, khó thở, co giật.
+Flash flood | flæʃ flʌd | Lũ quét | 山洪 | shānhóng | Lũ dâng rất nhanh trong vài giờ sau mưa lớn, nước chảy xiết, cuốn theo đất đá.
+Food poisoning | fuːd ˈpɔɪzənɪŋ | Ngộ độc thực phẩm | 食物中毒 | shíwù zhòngdú | Ói, tiêu chảy, đau bụng sau khi ăn đồ nhiễm khuẩn hoặc độc tố; việc quan trọng nhất là bù nước.
+Friction fire | ˈfrɪkʃən faɪər | Tạo lửa bằng ma sát | 摩擦取火 | mócā qǔhuǒ | Tạo than hồng bằng cách cọ xát hai mảnh gỗ khô (khoan tay, cung khoan) rồi thổi bùi nhùi cho bén lửa.
+Heat exhaustion | hiːt ɪɡˈzɔːstʃən | Kiệt sức vì nóng | 热衰竭 | rè shuāijié | Mất nhiều nước và muối do ra mồ hôi: mệt, chuột rút, buồn ói, chóng mặt; có thể chuyển thành sốc nhiệt.
+Heat index | hiːt ˈɪndɛks | Chỉ số nóng | 酷热指数 | kùrè zhǐshù | Nhiệt độ mà cơ thể “cảm thấy”, tính từ nhiệt độ không khí và độ ẩm; độ ẩm cao làm mồ hôi khó bay hơi.
+Heatstroke | ˈhiːtstroʊk | Sốc nhiệt | 热射病 | rèshèbìng | Cơ thể không tự làm mát được, thân nhiệt tăng rất cao, gây lú lẫn, xỉu, co giật; luôn là cấp cứu.
+Hypothermia | ˌhaɪpoʊˈθɝːmiə | Hạ thân nhiệt | 低体温症 | dī tǐwēn zhèng | Thân nhiệt dưới 35 °C do mất nhiệt nhanh hơn cơ thể tạo ra; hết run là dấu hiệu xấu.
+Leptospirosis | ˌlɛptoʊspaɪˈroʊsɪs | Bệnh xoắn khuẩn (Leptospira) | 钩端螺旋体病 | gōuduān luóxuántǐ bìng | Bệnh do vi khuẩn lây qua nước, đất nhiễm nước tiểu chuột; hay gặp sau lũ, gây sốt và đau bắp chân.
+Oral rehydration solution | ˈɔːrəl ˌriːhaɪˈdreɪʃən səˈluːʃən | Oresol (ORS) | 口服补液盐 | kǒufú bǔyèyán | Dung dịch muối và đường theo tỉ lệ chuẩn giúp ruột hấp thu nước tốt hơn nước lọc khi tiêu chảy, ói.
+Orientation | ˌɔːriɛnˈteɪʃən | Định hướng | 定向 | dìngxiàng | Xác định phương hướng bằng mặt trời, sao, bóng cây hay địa hình khi không có la bàn, điện thoại.
+Paracetamol | ˌpærəˈsiːtəmɔːl | Paracetamol | 对乙酰氨基酚 | duìyǐxiān'ānjīfēn | Thuốc hạ sốt, giảm đau an toàn hơn aspirin ở vùng có sốt xuất huyết; dùng đúng liều ghi trên hộp.
+Poisonous plant | ˈpɔɪzənəs plænt | Cây độc | 有毒植物 | yǒudú zhíwù | Cây, nấm, quả có độc tố, nhiều loại trông giống loại ăn được; khi không chắc chắn thì không ăn.
+Shelter | ˈʃɛltər | Chỗ trú | 庇护所 | bìhùsuǒ | Nơi che mưa, gió, nắng và giữ nhiệt; trong hoang dã thường ưu tiên trước cả thức ăn.
+Signal for help | ˈsɪɡnəl fər hɛlp | Tín hiệu cầu cứu | 求救信号 | qiújiù xìnhào | Cách báo vị trí cho người tìm kiếm: ba tiếng còi, ba đống lửa, chữ SOS lớn, gương phản chiếu ánh nắng.
+Snare | snɛr | Bẫy thòng lọng | 套索陷阱 | tàosuǒ xiànjǐng | Vòng dây đặt trên lối đi của thú nhỏ, siết lại khi con vật chui qua.
+Solar water disinfection | ˈsoʊlər ˈwɔːtər ˌdɪsɪnˈfɛkʃən | Khử trùng nước bằng ánh nắng (SODIS) | 太阳能水消毒 | tàiyángnéng shuǐ xiāodú | Đổ nước trong vào chai nhựa trong suốt, phơi nắng gắt nhiều giờ để tia UV diệt mầm bệnh.
+STOP | stɑːp | Dừng–Nghĩ–Quan sát–Lên kế hoạch | 停、想、观察、计划 | tíng, xiǎng, guānchá, jìhuà | Quy tắc khi bị lạc: Stop, Think, Observe, Plan; tránh hoảng loạn và đi tiếp làm lạc xa hơn.
+Stroke | stroʊk | Đột quỵ (tai biến mạch máu não) | 脑卒中 | nǎocùzhōng | Một phần não bị thiếu máu do tắc mạch hoặc chảy máu do vỡ mạch; mỗi phút chậm trễ làm mất thêm tế bào não.
+Thrombolysis | θrɑːmˈbɑːləsɪs | Tiêu huyết khối | 溶栓 | róngshuān | Dùng thuốc làm tan cục máu đông gây tắc mạch não; chỉ làm được trong vài giờ đầu, ở bệnh viện.
+Transient ischemic attack | ˈtrænʒənt ɪˈskiːmɪk əˈtæk | Cơn thiếu máu não thoáng qua | 短暂性脑缺血发作 | duǎnzànxìng nǎo quēxuè fāzuò | Dấu hiệu đột quỵ tự hết sau vài phút; là lời cảnh báo đột quỵ thật, vẫn phải đi cấp cứu.
+Tsunami | tsuːˈnɑːmi | Sóng thần | 海啸 | hǎixiào | Chuỗi sóng rất lớn do động đất dưới biển; rung mạnh hoặc nước biển rút bất thường thì chạy ngay lên cao.
+Vertigo | ˈvɝːtɪɡoʊ | Chóng mặt | 眩晕 | xuànyùn | Cảm giác quay cuồng, mất thăng bằng; nếu kèm nói khó, yếu một bên người thì có thể là đột quỵ.
+Water purification | ˈwɔːtər ˌpjʊrɪfɪˈkeɪʃən | Làm sạch nước | 净水 | jìngshuǐ | Lọc cặn rồi khử trùng (đun sôi, phơi nắng, hóa chất) để nước suối, nước lũ uống được an toàn.
