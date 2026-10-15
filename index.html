@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>My Library | My N. Nguyen</title>
+<title>My Collection | My N. Nguyen</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="icon" type="image/svg+xml" href="https://nnmy.github.io/lib/logo-my.svg">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -29,7 +29,6 @@ body { font-family: var(--font-ui); background: var(--paper); color: var(--ink);
 header { margin-bottom: 32px; }
 h1 { font-family: var(--font-px); font-weight: 600; font-size: clamp(30px, 4.4vw, 46px); line-height: 1.15; margin: 0 0 12px; color: var(--ink); display: flex; align-items: center; }
 h1 .dot { display: inline-block; flex: none; width: 16px; height: 16px; background: var(--sea); box-shadow: 4px 4px 0 var(--sky); margin-right: 18px; }
-.lead { margin: 0; max-width: 60ch; color: var(--muted); }
 
 .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 28px; list-style: none; padding: 0; margin: 0; }
 .card {
@@ -60,22 +59,23 @@ h1 .dot { display: inline-block; flex: none; width: 16px; height: 16px; backgrou
 </head>
 <body>
 <nav class="site-nav" aria-label="Site">
-  <a class="site-mark" href="https://nnmy.github.io/"><img src="https://nnmy.github.io/lib/logo-my.svg" alt="" width="30" height="30"><span>My N. Nguyen</span></a>
+  <a class="site-mark" href="https://nnmy.github.io/"><img src="https://nnmy.github.io/lib/logo-my.svg" alt="" width="30" height="30"><span>My N. Nguyen - Collection</span></a>
   <ul>
     <li><a href="https://nnmy.github.io/">Profile</a></li>
-    <li><a href="index.html" class="active" aria-current="page">Library</a></li>
+    <li><a href="index.html" class="active" aria-current="page">Collection</a></li>
   </ul>
 </nav>
 <div class="wrap">
   <header>
-    <h1><span class="dot"></span>MY LIBRARY</h1>
-    <p class="lead">Bộ sưu tập các tiện ích nhỏ, những sáng tác và kỷ niệm của mình.</p>
+    <h1><span class="dot"></span>MY COLLECTION</h1>
   </header>
 
   <div id="shelves"></div>
   <noscript><p>Cần bật JavaScript để hiển thị danh sách.
-    Các tiện ích: <a href="nes-pixelator/index.html">NES Pixelator</a>, <a href="https://nnmy.github.io/game-joy/">Game: Joy</a>, <a href="foto-batch/index.html">Foto Batch</a>, <a href="foto-album/index.html">Foto Album</a>.
-    Sáng tác: <a href="luu-niem/index.html">Lưu niệm</a>, <a href="chuyen-hoi-do/index.html">Hồi đó</a>.</p></noscript>
+    Các tiện ích: <a href="nes-pixelator/index.html">NES Pixelator</a>, <a href="https://nnmy.github.io/game-joy/">Game: Joy</a>, <a href="foto-batch/index.html">Foto Batch</a>, <a href="foto-album/index.html">Foto Album</a>, <a href="hanh-ly/index.html">Xếp hành lý</a>.
+    Sáng tác: <a href="luu-niem/index.html">Lưu niệm</a>, <a href="chuyen-hoi-do/index.html">Hồi đó</a>.
+    Tổng hợp: <a href="song-con/index.html">Kỹ năng sống còn</a>.
+    Minh họa: <a href="man-hinh/index.html">Màn hình và đôi mắt</a>, <a href="lao-hoa/index.html">Cơ thể khi về già</a>.</p></noscript>
 </div>
 
 <script>
@@ -170,6 +170,27 @@ const SECTIONS = [
       "obbbbbbobbbbbo",
     ],
   },
+  {
+    name: "Xếp hành lý",
+    href: "hanh-ly/index.html",
+    desc: "Gợi ý nên mang gì khi đi du lịch theo thời tiết, nơi đến, phương tiện; kéo thả vật dụng vào túi, vali; in checklist và lưu file để dùng lại.",
+    tags: ["Packing", "Travel", "Checklist"],
+    // pixel art: vali có dây đai và bánh xe
+    iconColors: { o: "#1d1d21", s: "#3787c4", k: "#7bcde8", y: "#f2c230" },
+    icon: [
+      "....oooo....",
+      "....o..o....",
+      "oooooooooooo",
+      "osskssssksso",
+      "osskssssksso",
+      "oyyyyyyyyyyo",
+      "osskssssksso",
+      "osskssssksso",
+      "osskssssksso",
+      "oooooooooooo",
+      ".oo......oo.",
+    ],
+  },
     ],
   },
   {
@@ -235,6 +256,79 @@ const SECTIONS = [
   },
     ],
   },
+  {
+    title: "Tổng hợp",
+    items: [
+      {
+        name: "Kỹ năng sống còn",
+        href: "song-con/index.html",
+        desc: "Làm gì khi gặp bão lũ, nắng nóng, trời lạnh, lạc rừng, động đất, hay đổ bệnh đột ngột khi ở một mình.",
+        tags: ["Disaster", "First aid", "Survival"],
+        // pixel art: la bàn
+        iconColors: { o: "#1d1d21", w: "#f4f2ea", r: "#d8312a", s: "#3787c4" },
+        icon: [
+          "....ooo....",
+          "..oowwwoo..",
+          ".owwwrwwwo.",
+          ".owwwrwwwo.",
+          "owwwrrrwwwo",
+          "owwwwowwwwo",
+          "owwwssswwwo",
+          ".owwwswwwo.",
+          ".owwwswwwo.",
+          "..oowwwoo..",
+          "....ooo....",
+        ],
+      },
+    ],
+  },
+  {
+    title: "Minh họa",
+    items: [
+      {
+        name: "Màn hình và đôi mắt",
+        href: "man-hinh/index.html",
+        desc: "Độ sáng và nhấp nháy của màn hình LCD, OLED ảnh hưởng ra sao tới mắt, sự tập trung và giấc ngủ.",
+        tags: ["Screen", "Flicker", "Sleep"],
+        // pixel art: màn hình có con mắt
+        iconColors: { o: "#1d1d21", k: "#7bcde8", w: "#ffffff", s: "#3787c4" },
+        icon: [
+          "oooooooooooo",
+          "okkkkkkkkkko",
+          "okkkooookkko",
+          "okkowwwwokko",
+          "okowwsswwoko",
+          "okkowwwwokko",
+          "okkkooookkko",
+          "okkkkkkkkkko",
+          "oooooooooooo",
+          ".....oo.....",
+          "...oooooo...",
+        ],
+      },
+      {
+        name: "Cơ thể khi về già",
+        href: "lao-hoa/index.html",
+        desc: "Mắt, tai, cơ, tim và trí não thay đổi ra sao từ 20 đến 90 tuổi, theo số liệu nghiên cứu.",
+        tags: ["Aging", "Vision", "Hearing"],
+        // pixel art: đồng hồ cát
+        iconColors: { o: "#1d1d21", w: "#f4f2ea", y: "#f2c230", b: "#8a5a2b" },
+        icon: [
+          "bbbbbbbbb",
+          ".owwwwwo.",
+          ".oyyyyyo.",
+          "..oyyyo..",
+          "...oyo...",
+          "....o....",
+          "...owo...",
+          "..owywo..",
+          ".owyyywo.",
+          ".oyyyyyo.",
+          "bbbbbbbbb",
+        ],
+      },
+    ],
+  },
 ];
 
 const SVG_NS = "http://www.w3.org/2000/svg";
@@ -268,8 +362,7 @@ SECTIONS.forEach((sec, si) => {
     const li = document.createElement("li");
     const a = document.createElement("a");
     a.className = "card"; a.href = tool.href;
-    a.target = "_blank"; a.rel = "noopener";
-    a.setAttribute("aria-label", tool.name + (external ? " (trang bên ngoài, mở trong tab mới)" : " (mở trong tab mới)"));
+    a.setAttribute("aria-label", tool.name + (external ? " (trang bên ngoài)" : ""));   // mở ngay trong tab hiện tại
     const t3 = document.createElement("h3"); t3.textContent = tool.name;
     if (external) { const x = document.createElement("span"); x.className = "ext"; x.textContent = "↗"; x.setAttribute("aria-hidden", "true"); t3.appendChild(x); }
     const body = document.createElement("div"); body.className = "card-body";

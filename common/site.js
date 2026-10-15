@@ -1,5 +1,5 @@
 /* =====================================================================
-   Shared site chrome for My Library: footer mini game (two sketched roosters).
+   Shared site chrome for My Collection: footer mini game (two sketched roosters).
    Usage: include site.css, the <footer class="site-foot"> markup, then
    <script src="../common/site.js" defer></script>.
    Pixel-art line drawings only (no fill), coloured lines.
